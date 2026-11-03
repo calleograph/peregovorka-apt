@@ -1,0 +1,45 @@
+Acquire-By-Hash: yes
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Tue, 03 Nov 2026 04:54:58 +0000
+Description: Peregovorka для Linux (приложение для корпоративных серверов Peregovorka)
+Label: Peregovorka
+Origin: Peregovorka
+Suite: stable
+MD5Sum:
+ 5684f9b79b01b712c0f630d72bad3e67             1806 main/binary-amd64/Packages
+ 6544d4dc09717289e6864520b84dc3e3             1067 main/binary-amd64/Packages.gz
+ 13ae35a63637298be8bf9e4e54429708             1120 main/binary-amd64/Packages.xz
+ eb17ef9dc9daf72ce89a72d3be2e9c58               91 main/binary-amd64/Release
+ fe6ab2f445a49a9a1e42eb1cca9895f3             1806 main/binary-arm64/Packages
+ 3f60d9a168d5fc9acdff0ed407d883f0             1067 main/binary-arm64/Packages.gz
+ 22c0719bf8b85be541de4596e175658a             1116 main/binary-arm64/Packages.xz
+ 7654298552c15b21994245af519d49e4               91 main/binary-arm64/Release
+SHA1:
+ eeb26533ded64fbf31e99efd2b0052d893c3e095             1806 main/binary-amd64/Packages
+ 9f6c1eab3f751d9e302986e4db477a507508b12e             1067 main/binary-amd64/Packages.gz
+ 5456027649728eaa1e58e7b4ba8eefa58acbd3b4             1120 main/binary-amd64/Packages.xz
+ fd48cd6735e760556115e5780fe240cd7c8137f3               91 main/binary-amd64/Release
+ 8e9f3f8516b5080b1c09e60c3083d4d46efb0cb5             1806 main/binary-arm64/Packages
+ a6f7145424e245d648ce2485e3968bff011c6a2b             1067 main/binary-arm64/Packages.gz
+ 324bd561cecdcf6db67da6efe799d3cf7bb2373a             1116 main/binary-arm64/Packages.xz
+ d7d4c5da38252c6e237c800828d48c0b20490c33               91 main/binary-arm64/Release
+SHA256:
+ e7310890541fd715057f4c5528ce61ef7043fcaef69c64cb0025e8e5f0e42016             1806 main/binary-amd64/Packages
+ 19011b482eafdb7608cf9bcd721c65b45a862f9799ccee2b3c4193169b029357             1067 main/binary-amd64/Packages.gz
+ deba52134a40575057b078e4fb8b20bfbf9a7c457953dfbed85837554d48e653             1120 main/binary-amd64/Packages.xz
+ 6686fc39c0bed5576af36edd2b472ce154c88bec15559abff5d5f1f8742d901f               91 main/binary-amd64/Release
+ 40342c086bce9e4d41c80b9e602b4a1080731f7c69dd5e5eeb78cfc7cc5369f7             1806 main/binary-arm64/Packages
+ 7594895d366b855cc7f49d87ae968673dcc30842ccccafd521b2530caec7066d             1067 main/binary-arm64/Packages.gz
+ 19f9d66067518c9ff8c4b941b735b8196e53ffc6d7c09a9487d651067a17733a             1116 main/binary-arm64/Packages.xz
+ 6e06d3dfd87fd83eba5e78e523e100fc077814192469d01c7872a4b6cb4be223               91 main/binary-arm64/Release
+SHA512:
+ 1654d6090c9c9882bfd5b6d46d26316831de0939f593dd498079afb5f752eb53ace1dc30deeff63093060cf12d0e6781297f332f81933fc960686ffacae99bed             1806 main/binary-amd64/Packages
+ 29e6c998ac0b38df691feefba24238195758f3f484c059292c0db32cb65dd2c89e145654dd1b54fbae171aa890ce7bdd6a38af3184b2a7775606ddb46306c41f             1067 main/binary-amd64/Packages.gz
+ b2ccf03287552ceef4781128b22990e0690adc05ec884d14b19d68219fe48dde22fd1729ced37fa6196386e3c13f161e275312d9c2b6d9d54f127b4ab464d11d             1120 main/binary-amd64/Packages.xz
+ 21778fe27e16f965e38425db215784de5fb46a1c3740b9c969debeceb28869f90b1dac2e5f465cb2536bc57bd8f40fb5d9e5446173a22d6a88942b916f9f0480               91 main/binary-amd64/Release
+ c79160074da6db5a55f4df2c0e13a893cb3dffd27e198c616d79cd0b5b75d98aad54b532c062e2754072fba9a38ec0a96eafda48f2315b398de1e93251962a4a             1806 main/binary-arm64/Packages
+ d8c55995c32daa129b5398f4d1a1265652355514e7036067d11981fef05ce0fefcb6eb42fc78f90140b5452329b3abc3a6d95bca961b60fb0e8d44c934bd0013             1067 main/binary-arm64/Packages.gz
+ d661d31d28e165524574492de193dfc91f3fb7b694472495ab03cec6533b3e4103d8e069e192819a964908804749c343f2fab23f4eb01813020cbe1061602776             1116 main/binary-arm64/Packages.xz
+ 2dd53129ea17d5b42c3a05cd094342e3cd72bba163a1a04786a8a3e0d6b0e136b78987699c4e8fab870fbf9594042c6a7d8877dbacc01fedc1fa6efabd391e28               91 main/binary-arm64/Release
