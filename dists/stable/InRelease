@@ -5,7 +5,7 @@ Acquire-By-Hash: yes
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Tue, 03 Nov 2026 04:54:58 +0000
+Date: Tue, 03 Nov 2026 07:50:33 +0000
 Description: Peregovorka для Linux (приложение для корпоративных серверов Peregovorka)
 Label: Peregovorka
 Origin: Peregovorka
@@ -48,17 +48,17 @@ SHA512:
  2dd53129ea17d5b42c3a05cd094342e3cd72bba163a1a04786a8a3e0d6b0e136b78987699c4e8fab870fbf9594042c6a7d8877dbacc01fedc1fa6efabd391e28               91 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEESKdbYr+oF9eq0+hOKwCt5RJ8XfkFAmrpaSIACgkQKwCt5RJ8
-XfmVfA//cnXZVpsN3Ebk3Oo5R+zEZuQB83mml5zYH9ZmuTFxWvT//RRYNuwGXgu/
-ObGjysX9innJsp3I2UounFLYkt/2WYF6zczVzNHyHUQwCMQ+dZDrcXe11DNJZZ6p
-ELhlFewlLYrHRgUAGZ9uaeRyxRUjgORwDvEq1GNTr83ZPAKLuP8h+MlH7Cfzwt9q
-tSMBsxfy3A2CAaZ2uG2sc7EhW6FMDAdZ06pXCeFcAb8AMP05TP5wZaKpaG6C4Is0
-Czhcszpi7s9CgJHftsUScSRaAQ9Z85w5B3gMlfKleKa1KUv9//qNkrfiEkOH0aCH
-FAkzMwnc3kO4Wh7TUBspE52mqVOqoOz3qZrFJQ/MfuUh4UseJYcrIKDTxTxXe4Ao
-m/DLWwj8cUmbwuBB+0dneuRpQ4+P6EnGco7DBXg14JgElbiDhOcoLw+wc6SBu/Yi
-H/H0KBdesykPeFV+3LlJHcnUDHJ/TVYzJ98d6LNP1625iXBBR6uxdGDQ/yac0HfY
-uSeY8UQcUhesHRwFCLX29pg+lfWAsSsthGRNA1rkKg/nuMwQLsTf5xQ0s3+AJ22k
-5SJA2qnbSwJV71eU0iSkWZ4Jt9NpWgss+jE5KY3fTL4EEaianecqIyHBSuBao55y
-7LcB2aGXAy3plSe824ruW7hnV0e7dtejjCwZ/5gzs9Vd2yPuf7M=
-=vDml
+iQIzBAEBCgAdFiEESKdbYr+oF9eq0+hOKwCt5RJ8XfkFAmrpkkoACgkQKwCt5RJ8
+Xfm2jA//Q4T5CYQAc5h+OuvDKgPRXTMrkAiXy4Nub4tKTjGSEY3IhyBs59O1BazC
+PE7BRW8adhVLps938uXwy+jZe2gRrRUYXq4YSWz+9OhN3EBRMUqVffbFfVmMs6Io
+mE0I7XZZhZ4hE36gD0osNxhcloGqSUdFgCFoEAXUHARwUr6o/7N2C7/L1SF0BQtR
+yzO2aLLaK4LYp9x4+9+K3AsKc3CgICoovh7RxD1WbXfOB5yrF2LLTwrDeTITEhN4
+p8AnTAQmNsCdnav3fBMyQoYVvA9z+nFp76pw73reIScSyqG1vvq6JRbgz5yH1t8l
+u8YVvuRnmJMAzjjYmj9WBxeHJDyy14zA0wZ3dKNEbHFL1vpRK5/w/m2Bu1g3rCPJ
+Dh1ZDn7FiBsTKGs6POgJwwZNfNNNMxFe2HcSaspCw+pqFhzqXJ+TLtoYE31ub6oJ
+FOfWKIEkXUAniSSSRYfg/yUuapxByR+zPDjE9y6ajt71f0M8MdAWf4LaCASGnRik
++SIB7In4D93z/PQPiolRk3WC1q7t0mxxQyXujvzR0Kh8lXerSVnDwP0FtptMq7o7
+ei08zADpCyuv90cX8oqGLV+rr7NFil1Af1fBT9Q++Frs6sjXOOUZT9e2b1jDyU/W
+ynO4dqSmMhsUR5ylYIdNcqx+nS5SQA5ay41YJWRhCu7JL0LWqSY=
+=qyz9
 -----END PGP SIGNATURE-----

@@ -2,7 +2,7 @@ Acquire-By-Hash: yes
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Tue, 03 Nov 2026 04:54:58 +0000
+Date: Tue, 03 Nov 2026 07:50:33 +0000
 Description: Peregovorka для Linux (приложение для корпоративных серверов Peregovorka)
 Label: Peregovorka
 Origin: Peregovorka
