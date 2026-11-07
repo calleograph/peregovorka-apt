@@ -1,2 +1,4 @@
 pool/main/p/peregovorka/peregovorka_1.5.0_amd64.deb dd8e374817d9f8932c4e80070c4f83d4e6e35468ced67be99f8a6804936df115 88769364 https://github.com/calleograph/peregovorka/releases/download/desktop-v1.5.0/peregovorka_1.5.0_amd64.deb
 pool/main/p/peregovorka/peregovorka_1.5.0_arm64.deb 0dccf9179311a7b3e3170f14568ef96149976f060e6d52554bee58097a5bdf6d 84387012 https://github.com/calleograph/peregovorka/releases/download/desktop-v1.5.0/peregovorka_1.5.0_arm64.deb
+pool/main/p/peregovorka/peregovorka_1.5.1_amd64.deb 16a12ae6a931258b0e39bc0885e5ae6409e10c6853b770227459d0792c5b3fcf 88764372 https://github.com/calleograph/peregovorka/releases/download/desktop-v1.5.1/peregovorka_1.5.1_amd64.deb
+pool/main/p/peregovorka/peregovorka_1.5.1_arm64.deb 077549e20d51f2e8bb88d1fdd74849ad619f70e534cde6d4c3b70704110e34e7 84394392 https://github.com/calleograph/peregovorka/releases/download/desktop-v1.5.1/peregovorka_1.5.1_arm64.deb
